@@ -71,11 +71,10 @@ nav a:hover {
   border-radius: 5px;
 }
 
-
 footer p {
   background-color: #deb887; 
   padding: 10px;
-  border: 2px solid #8b4513;
+  border: 2px solid #8b4512;
   margin: 15px;
   text-align: center;
 }
